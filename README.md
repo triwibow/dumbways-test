@@ -1,4 +1,4 @@
-### Untuk soal no 1 - 4 saya menggunakan javascript dan untuk melihat jawaban silahkan untuk membuka console
+### Untuk soal no 1 - 3 saya menggunakan javascript dan untuk melihat jawaban silahkan untuk membuka console
 
 ### Untuk soal membuat aplikasi sederhana , saya menggunakan PHP, database MariaDb, dan menggunakan Wamp sebagai web server nya
 ### Untuk database nya silahkan import file dumbways_db.sql
